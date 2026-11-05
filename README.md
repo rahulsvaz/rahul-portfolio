@@ -1,3 +1,3 @@
 # Rahul P — Portfolio
 
-Flutter developer portfolio. Live at https://rahulsvaz.github.io/
+Software Engineer portfolio. Live at https://rahulsvaz.github.io/rahul-portfolio/
